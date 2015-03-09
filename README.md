@@ -1,3 +1,7 @@
+# Current Status
+
+This is a base install of an ember-cli project, with .gitignore updated to add .idea. As we progress through the project, any changes needed to the install process will be reflected below.
+
 # Relearning-ember
 
 This README outlines the details of collaborating on this Ember application.
